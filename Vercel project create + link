@@ -1,8 +1,1 @@
-# install CLI if needed
-npm i -g vercel
 
-# login (use the GitHub account that owns the repo)
-vercel login
-
-# link local dir to a new Vercel project
-vercel link   # accept defaults, or choose existing if already created
